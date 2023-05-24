@@ -2,10 +2,8 @@
 	"name": "Emby图标库",
 	"description": "v1.0.46",
 	"icons": [
-		{
-			"name": "emby-round",
-			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/emby/round.png"
-		},
+		{"name": "emby-round", "url": "https://raw.githubusercontent.com/fangshuzai/icon/main/112233.jpeg"},
+		{"name": "emby-square", "url": "https://raw.githubusercontent.com/fangshuzai/icon/main/112233.jpeg"},
 		{
 			"name": "emby-square",
 			"url": "https://raw.githubusercontent.com/code170202/emby-icon/main/emby/square.png"
